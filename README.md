@@ -1,9 +1,5 @@
 # LAB RECORD
 
-_This file is an intellectual property of **Lakshay Sharma**. The purpose of this file is to maintain a lab record of the activities of ML lab at MAIT. Copying contents of this file is highly discouraged._
-
----
-
 ## Lab 1 : Understanding Jupyter Notebooks
 
 ### Prescribed Task:
